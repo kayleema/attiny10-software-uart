@@ -1,6 +1,6 @@
-======================
 ATTINY10 Software UART
 ======================
+
 An Interrupt-Driven UART Library for the Attiny10
 -------------------------------------------------
 
@@ -18,4 +18,4 @@ avr-libc are not compatible with the attiny10--they assume the availability of
 certain instructions not implemented in the attiny10.
 
 I'm interested in hearing from you if you find this library useful:  
-keeganpublic@gmail.com
+http://www.kaylee.jp/contact.html
